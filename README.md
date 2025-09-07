@@ -71,4 +71,14 @@ En el ejmplo también incluye la librería **Wire.h**, que es esencial para esta
 Este ejemplo muestra cómo conectar el modulo PCF8574 I2C con arduino uno.
 
 ![Simulación lcd_i2c con Arduino](imagenes/lcd_i2c.png)
+
 ---
+# 📢 Aviso
+
+Este repositorio está en desarrollo . Se seguirán añadiendo más módulos, ejemplos y funcionalidades para ampliar sus capacidades y aplicaciones.  
+La documentación, simulaciones y código se actualizarán progresivamente.
+
+
+
+**Autor:** Will   
+**Ultima actualizacion:** 7 de septiembre de 2025
