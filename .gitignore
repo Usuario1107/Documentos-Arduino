@@ -1,0 +1,15 @@
+# Archivos de configuración local de VS Code
+.vscode/
+
+# Archivos temporales o de sistema
+*.log
+*.tmp
+
+# Archivos de compilación (si usas Arduino CLI)
+build/
+*.hex
+*.elf
+
+# Archivos ocultos de macOS o Windows
+.DS_Store
+Thumbs.db
